@@ -1,2 +1,3 @@
 # ravi---ranjan
-This is my fisrt Git Repository
+This is my fisrt Git Repository.
+Author-Ravi Ranjan
